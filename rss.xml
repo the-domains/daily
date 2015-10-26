@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[daily]]></title>
         <description><![CDATA[daily]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daily/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 26 Oct 2015 11:25:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 26 Oct 2015 11:25:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daily/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#vsco #vscourban #beige #urban #spießig #ruhrarea #essen #boardwalk #iphone #rsa_minimal #vorgarten #neighborhead]]></title>
+            <description><![CDATA[<article><h1>#vsco #vscourban #beige #urban #spießig #ruhrarea #essen #boardwalk #iphone #rsa_minimal #vorgarten #neighborhead</h1><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/923779_679233875504731_1953393024_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/sfpqvKKjAf/?taken-by=bruxoliver</link>
+            <guid isPermaLink="false">fa1390bd-2e2f-48f7-ad79-031bf348e8cc</guid>
+            <pubDate>Mon, 26 Oct 2015 11:24:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Raureif - #pictapgo_app #grass #green #morning #nature #minimalism #minimal #share]]></title>
             <description><![CDATA[<article><h1>Raureif - #pictapgo_app #grass #green #morning #nature #minimalism #minimal #share</h1><img src="https://scontent.cdninstagram.com/hphotos-xpa1/t51.2885-15/e15/10617074_1471412249779827_471760705_n.jpg"></article>]]></description>
