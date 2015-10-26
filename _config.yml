@@ -1,7 +1,7 @@
 name: daily
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.975500404369086
+typography_spectrum: 0.25171
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#202020'
     - '#202020'
   brandStrength: 0
-  lightness: 0.007776801474392414
-  saturation: 0.33482325403019786
-  rhythmicContrast: 0.07777710095979273
+  lightness: 1
+  saturation: 0.4375
+  rhythmicContrast: 0
 purpose: []
