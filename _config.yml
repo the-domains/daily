@@ -1,6 +1,6 @@
 name: daily
 favicon: null
-layout_spectrum: 0.24443
+layout_spectrum: 0.33148
 typography_spectrum: 0.65212
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#f04f3b'
     - '#fefdfe'
     - '#e0ccdb'
-  brandStrength: 1
-  lightness: 1
+  brandStrength: 0.5
+  lightness: 0.4375
   saturation: 0.4375
-  rhythmicContrast: 0
+  rhythmicContrast: 0.5
 purpose: []
